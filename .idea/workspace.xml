@@ -5,25 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86c762a0-a69e-4cab-904d-583b0ad7e202" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/Casting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/ControlStatementTutorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/DataType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/IOwithScanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/JavaOperatorTutorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/ScannerTutorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/SeSAC_ydp_java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SeSAC_ydp_java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatutorial/CSTutorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatutorial/metTutorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatutorial/methodTutorial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeSAC_ydp_java/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeSAC_ydp_java/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeSAC_ydp_java/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeSAC_ydp_java/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeSAC_ydp_java/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeSAC_ydp_java/SeSAC_ydp_java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeSAC_ydp_java/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,15 +62,30 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/sba/Documents/github/SeSAC_ydp_java",
     "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "애플리케이션.CSTutorial.executor": "Run",
     "애플리케이션.Casting.executor": "Run",
-    "애플리케이션.ControlStatementTutorial.executor": "Debug",
+    "애플리케이션.ControlStatementTutorial.executor": "Run",
     "애플리케이션.DataType.executor": "Run",
     "애플리케이션.IOwithScanner.executor": "Run",
     "애플리케이션.JavaOperatorTutorial.executor": "Run",
-    "애플리케이션.ScannerTutorial.executor": "Run"
+    "애플리케이션.ScannerTutorial.executor": "Run",
+    "애플리케이션.metTutorial.executor": "Run"
   }
 }]]></component>
   <component name="RunManager">
+    <configuration name="CSTutorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javatutorial.CSTutorial" />
+      <module name="SeSAC_ydp_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javatutorial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ControlStatementTutorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javatutorial.ControlStatementTutorial" />
       <module name="SeSAC_ydp_java" />
@@ -101,6 +101,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.CSTutorial" />
         <item itemvalue="애플리케이션.ControlStatementTutorial" />
       </list>
     </recent_temporary>
