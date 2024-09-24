@@ -5,10 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86c762a0-a69e-4cab-904d-583b0ad7e202" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/javatutorial/CSTutorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/metTutorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/methodTutorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatutorial/day02/ArrayListTutorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatutorial/day02/ArrayTutorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatutorial/day02/classTutorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatutorial/day02/exceptionTutorial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javatutorial/CSTutorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/javatutorial/day01/CSTutorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javatutorial/Casting.java" beforeDir="false" afterPath="$PROJECT_DIR$/javatutorial/day01/Casting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javatutorial/ControlStatementTutorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/javatutorial/day01/ControlStatementTutorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javatutorial/DataType.java" beforeDir="false" afterPath="$PROJECT_DIR$/javatutorial/day01/DataType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javatutorial/IOwithScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/javatutorial/day01/IOwithScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javatutorial/JavaOperatorTutorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/javatutorial/day01/JavaOperatorTutorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javatutorial/ScannerTutorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/javatutorial/day01/ScannerTutorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javatutorial/metTutorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/javatutorial/day01/metTutorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javatutorial/methodTutorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/javatutorial/day01/methodTutorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SeSAC_ydp_java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeSAC_ydp_java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SeSAC_ydp_java/SeSAC_ydp_java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SeSAC_ydp_java/SeSAC_ydp_java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SeSAC_ydp_java/SeSAC_ydp_java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SeSAC_ydp_java/SeSAC_ydp_java/SeSAC_ydp_java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SeSAC_ydp_java/javatutorial/CSTutorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SeSAC_ydp_java/javatutorial/Casting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SeSAC_ydp_java/javatutorial/ControlStatementTutorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SeSAC_ydp_java/javatutorial/DataType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SeSAC_ydp_java/javatutorial/IOwithScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SeSAC_ydp_java/javatutorial/JavaOperatorTutorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SeSAC_ydp_java/javatutorial/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SeSAC_ydp_java/javatutorial/ScannerTutorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SeSAC_ydp_java/javatutorial/metTutorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SeSAC_ydp_java/javatutorial/methodTutorial.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,12 +60,12 @@
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="28f69b57-c630-48d5-9247-18b1c61768e5" />
   </component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/behindy3359/SeSAC_ydp_java.git&quot;,
-    &quot;accountId&quot;: &quot;28f69b57-c630-48d5-9247-18b1c61768e5&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/behindy3359/SeSAC_ydp_java.git",
+    "accountId": "13ee92c1-dc44-4702-ae43-b236064376df"
   }
-}</component>
+}]]></component>
   <component name="PerforceDirect.Settings">
     <option name="CHARSET" value="none" />
   </component>
@@ -59,9 +85,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/sba/Documents/github/SeSAC_ydp_java",
+    "last_opened_file_path": "C:/Users/solme/Desktop/study/java/SeSAC_ydp_java",
     "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "애플리케이션.ArrayListTutorial.executor": "Run",
+    "애플리케이션.ArrayTutorial.executor": "Run",
     "애플리케이션.CSTutorial.executor": "Run",
     "애플리케이션.Casting.executor": "Run",
     "애플리케이션.ControlStatementTutorial.executor": "Run",
@@ -69,16 +98,30 @@
     "애플리케이션.IOwithScanner.executor": "Run",
     "애플리케이션.JavaOperatorTutorial.executor": "Run",
     "애플리케이션.ScannerTutorial.executor": "Run",
+    "애플리케이션.exceptionTutorial.executor": "Run",
     "애플리케이션.metTutorial.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="CSTutorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javatutorial.CSTutorial" />
+  <component name="RunManager" selected="애플리케이션.exceptionTutorial">
+    <configuration name="ArrayTutorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javatutorial.day02.ArrayTutorial" />
       <module name="SeSAC_ydp_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javatutorial.*" />
+          <option name="PATTERN" value="javatutorial.day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CSTutorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javatutorial.day01.CSTutorial" />
+      <module name="SeSAC_ydp_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javatutorial.day01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,11 +130,24 @@
       </method>
     </configuration>
     <configuration name="ControlStatementTutorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javatutorial.ControlStatementTutorial" />
+      <option name="MAIN_CLASS_NAME" value="javatutorial.day01.ControlStatementTutorial" />
       <module name="SeSAC_ydp_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javatutorial.*" />
+          <option name="PATTERN" value="javatutorial.day01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exceptionTutorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javatutorial.day02.exceptionTutorial" />
+      <module name="SeSAC_ydp_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javatutorial.day02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,6 +157,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.exceptionTutorial" />
+        <item itemvalue="애플리케이션.ArrayTutorial" />
         <item itemvalue="애플리케이션.CSTutorial" />
         <item itemvalue="애플리케이션.ControlStatementTutorial" />
       </list>

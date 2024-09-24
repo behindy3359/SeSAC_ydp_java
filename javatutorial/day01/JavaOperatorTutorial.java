@@ -1,4 +1,4 @@
-package javatutorial;
+package javatutorial.day01;
 
 public class JavaOperatorTutorial {
     public static void main(String[] args) {

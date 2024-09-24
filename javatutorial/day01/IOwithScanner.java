@@ -1,4 +1,4 @@
-package javatutorial;
+package javatutorial.day01;
 
 import java.util.Scanner;
 

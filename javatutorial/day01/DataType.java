@@ -1,4 +1,4 @@
-package javatutorial;
+package javatutorial.day01;
 
 public class DataType {
 
