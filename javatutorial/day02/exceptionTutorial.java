@@ -17,7 +17,8 @@ public class exceptionTutorial {
         System.out.println(array[i]);
       }
     } catch (ArrayIndexOutOfBoundsException e){
-      System.out.println("인덱스가 범위를 벗어났습니다.");
+      System.err.println("인덱스가 범위를 벗어났습니다.");
+      e.printStackTrace();
     }
   }
 
@@ -55,9 +56,11 @@ public class exceptionTutorial {
       System.out.println((float)sum/array.size());
 
     }catch (InputMismatchException e ){
-      System.out.println("배열의 크기를 정수로 입력해주세요");
+      System.err.println("배열의 크기를 정수로 입력해주세요");
+      e.printStackTrace();
     }catch (IllegalStateException e){
-      System.out.println(e.getMessage());
+      System.err.println(e.getMessage());
+      e.printStackTrace();
     }
   }
 
@@ -91,6 +94,10 @@ public class exceptionTutorial {
         groups.get(num).add(num);
       }
 
+      if(groups.isEmpty()){
+
+      }
+
       for (List<Integer> group : groups.values()) {
         if (group.size() > 1) {
           System.out.print(group);
@@ -98,7 +105,11 @@ public class exceptionTutorial {
       }
 
     } catch (InputMismatchException e ){
-      System.out.println("정수를 입력해주세요");
+      System.err.println("정수를 입력해주세요");
+      e.printStackTrace();
+    } catch (IllegalArgumentException e){
+      System.err.println("정수를 입력해주세요");
+      e.printStackTrace();
     }
   }
 }
