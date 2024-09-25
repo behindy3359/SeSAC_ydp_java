@@ -17,7 +17,7 @@ public class exceptionTutorial {
         System.out.println(array[i]);
       }
     } catch (ArrayIndexOutOfBoundsException e){
-      System.err.println("인덱스가 범위를 벗어났습니다.");
+      System.out.println("인덱스가 범위를 벗어났습니다.");
       e.printStackTrace();
     }
   }
@@ -92,10 +92,6 @@ public class exceptionTutorial {
       for (int num : array) {
         groups.putIfAbsent(num, new ArrayList<>());
         groups.get(num).add(num);
-      }
-
-      if(groups.isEmpty()){
-
       }
 
       for (List<Integer> group : groups.values()) {

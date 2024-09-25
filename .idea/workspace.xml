@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86c762a0-a69e-4cab-904d-583b0ad7e202" name="변경" comment="study : 0925 - 1 배열">
-      <change afterPath="$PROJECT_DIR$/javatutorial/day03/ExceptionTutorials.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatutorial/day03/multipleCatchEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatutorial/day03/multipleExceptionCatchTutorial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/javatutorial/day02/exceptionTutorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/javatutorial/day02/exceptionTutorial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SeSAC_ydp_java/javatutorial/day02/exceptionTutorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeSAC_ydp_java/javatutorial/day02/exceptionTutorial.class" afterDir="false" />
@@ -74,19 +75,21 @@
     "애플리케이션.Casting.executor": "Run",
     "애플리케이션.ControlStatementTutorial.executor": "Run",
     "애플리케이션.DataType.executor": "Run",
-    "애플리케이션.ExceptionTutorials.executor": "Debug",
+    "애플리케이션.ExceptionTutorials.executor": "Run",
     "애플리케이션.IOwithScanner.executor": "Run",
     "애플리케이션.JavaOperatorTutorial.executor": "Run",
     "애플리케이션.ScannerTutorial.executor": "Run",
     "애플리케이션.exceptionTutorial.executor": "Debug",
     "애플리케이션.javatutorial.day02.ArrayListTutorial.executor": "Run",
     "애플리케이션.javatutorial.day03.ArrayTutorial.executor": "Debug",
-    "애플리케이션.metTutorial.executor": "Run"
+    "애플리케이션.metTutorial.executor": "Run",
+    "애플리케이션.multipleCatchEx.executor": "Run",
+    "애플리케이션.multipleExceptionCatchTutorial.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.ExceptionTutorials">
-    <configuration name="ALTutorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javatutorial.day03.ALTutorial" />
+  <component name="RunManager" selected="애플리케이션.multipleExceptionCatchTutorial">
+    <configuration name="multipleCatchEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javatutorial.day03.multipleCatchEx" />
       <module name="SeSAC_ydp_java" />
       <extension name="coverage">
         <pattern>
@@ -98,47 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayTutorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javatutorial.day02.ArrayTutorial" />
-      <module name="SeSAC_ydp_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javatutorial.day02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExceptionTutorials" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javatutorial.day03.ExceptionTutorials" />
-      <module name="SeSAC_ydp_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javatutorial.day03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="exceptionTutorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javatutorial.day02.exceptionTutorial" />
-      <module name="SeSAC_ydp_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javatutorial.day02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="javatutorial.day03.ArrayTutorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javatutorial.day03.ArrayTutorial" />
+    <configuration name="multipleExceptionCatchTutorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javatutorial.day03.multipleExceptionCatchTutorial" />
       <module name="SeSAC_ydp_java" />
       <extension name="coverage">
         <pattern>
@@ -152,11 +116,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.ExceptionTutorials" />
-        <item itemvalue="애플리케이션.exceptionTutorial" />
-        <item itemvalue="애플리케이션.ALTutorial" />
-        <item itemvalue="애플리케이션.ArrayTutorial" />
-        <item itemvalue="애플리케이션.javatutorial.day03.ArrayTutorial" />
+        <item itemvalue="애플리케이션.multipleExceptionCatchTutorial" />
+        <item itemvalue="애플리케이션.multipleCatchEx" />
       </list>
     </recent_temporary>
   </component>
