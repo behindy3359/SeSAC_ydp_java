@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86c762a0-a69e-4cab-904d-583b0ad7e202" name="변경" comment="study : 0925 - 1 배열">
-      <change afterPath="$PROJECT_DIR$/javatutorial/day03/multipleCatchEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day03/multipleExceptionCatchTutorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatutorial/day04/ClassTutorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javatutorial/day02/exceptionTutorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/javatutorial/day02/exceptionTutorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SeSAC_ydp_java/javatutorial/day02/exceptionTutorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeSAC_ydp_java/javatutorial/day02/exceptionTutorial.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +36,7 @@
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/behindy3359/SeSAC_ydp_java.git",
-    "accountId": "28f69b57-c630-48d5-9247-18b1c61768e5"
+    "accountId": "13ee92c1-dc44-4702-ae43-b236064376df"
   }
 }]]></component>
   <component name="PerforceDirect.Settings">
@@ -73,6 +71,7 @@
     "애플리케이션.ArrayTutorial.executor": "Debug",
     "애플리케이션.CSTutorial.executor": "Run",
     "애플리케이션.Casting.executor": "Run",
+    "애플리케이션.ClassTutorial.executor": "Run",
     "애플리케이션.ControlStatementTutorial.executor": "Run",
     "애플리케이션.DataType.executor": "Run",
     "애플리케이션.ExceptionTutorials.executor": "Run",
@@ -87,7 +86,7 @@
     "애플리케이션.multipleExceptionCatchTutorial.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.multipleExceptionCatchTutorial">
+  <component name="RunManager">
     <configuration name="multipleCatchEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javatutorial.day03.multipleCatchEx" />
       <module name="SeSAC_ydp_java" />
