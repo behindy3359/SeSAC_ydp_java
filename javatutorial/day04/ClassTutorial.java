@@ -10,7 +10,7 @@ public class ClassTutorial {
     double num1 =sc.nextDouble();
 //    double num2 =sc.nextDouble();
     Rectangle rect= new Rectangle(num1);
-    System.out.println( rect.area() );
+//    System.out.println( rect.area() );
   }
 }
 class Rectangle{
