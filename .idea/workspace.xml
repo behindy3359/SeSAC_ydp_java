@@ -5,18 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86c762a0-a69e-4cab-904d-583b0ad7e202" name="변경" comment="study : 0925 - 1 배열">
-      <change afterPath="$PROJECT_DIR$/javatutorial/day05/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day05/ClassTutorial3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day05/ClassTutorial4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day05/Rectangle3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day05/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day05/classTutorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day05/classTutorial2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatutorial/day06/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatutorial/day06/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatutorial/day06/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatutorial/day06/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatutorial/day06/ClassTutorial5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatutorial/day06/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatutorial/day06/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatutorial/day06/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javatutorial/day04/ClassTutorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/javatutorial/day04/ClassTutorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SeSAC_ydp_java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeSAC_ydp_java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SeSAC_ydp_java/javatutorial/day04/ClassTutorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeSAC_ydp_java/javatutorial/day04/ClassTutorial.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SeSAC_ydp_java/javatutorial/day04/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeSAC_ydp_java/javatutorial/day04/Rectangle.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +81,7 @@
     "애플리케이션.ClassTutorial.executor": "Run",
     "애플리케이션.ClassTutorial3.executor": "Run",
     "애플리케이션.ClassTutorial4.executor": "Run",
+    "애플리케이션.ClassTutorial5.executor": "Run",
     "애플리케이션.ControlStatementTutorial.executor": "Run",
     "애플리케이션.DataType.executor": "Run",
     "애플리케이션.ExceptionTutorials.executor": "Run",
@@ -141,7 +139,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.classTutorial" />
         <item itemvalue="애플리케이션.multipleCatchEx" />
         <item itemvalue="애플리케이션.multipleExceptionCatchTutorial" />
       </list>
