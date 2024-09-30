@@ -5,45 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86c762a0-a69e-4cab-904d-583b0ad7e202" name="변경" comment="study : 0925 - 1 배열">
-      <change afterPath="$PROJECT_DIR$/javatutorial/day07/Baek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day07/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day07/CircleClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day07/Kim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day07/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day07/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day07/ShapeClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day07/ShapeExClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day07/SquareClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day07/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day07/day07interface/Audio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day07/day07interface/RemoteControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day07/day07interface/RemoteControlEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day07/day07interface/Television.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day07/day07interface2/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day07/day07interface2/Move.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day07/day07interface2/Power.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day07/day07interface2/Suv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day07/day07interface2/interfaceEx01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day07/day07interface3/Camera.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day07/day07interface3/InterfaceDevice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day07/day07interface3/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day07/day07interface3/SmartPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day07/day07interface3/interfaceEx03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day07/day07interface4/CDPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day07/day07interface4/Mp3Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day07/day07interface4/Music.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day07/day07interface4/MusicPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day07/day07interface5/Airplane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day07/day07interface5/CallVehicles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day07/day07interface5/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day07/day07interface5/Flyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day07/day07interface5/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day07/mainClass1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatutorial/day07/day07generic1/GenericEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatutorial/day07/day07generic1/GenericTutorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatutorial/day07/day07generic1/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatutorial/day07/day07wrapper1/BxUbxEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatutorial/day07/day07wrapper1/VCompareEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatutorial/day08/practice01/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatutorial/day08/practice02/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatutorial/day08/practice03/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatutorial/day08/practice04/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatutorial/day08/practice04/Borrowable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatutorial/day08/practice04/Ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatutorial/day08/practice04/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatutorial/day08/practice04/LibraryUser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SeSAC_ydp_java/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeSAC_ydp_java/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SeSAC_ydp_java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeSAC_ydp_java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SeSAC_ydp_java/javatutorial/day06/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeSAC_ydp_java/javatutorial/day06/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SeSAC_ydp_java/javatutorial/day07/day07interface5/Airplane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeSAC_ydp_java/javatutorial/day07/day07interface5/Airplane.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +50,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/behindy3359/SeSAC_ydp_java.git&quot;,
-    &quot;accountId&quot;: &quot;13ee92c1-dc44-4702-ae43-b236064376df&quot;
+    &quot;accountId&quot;: &quot;28f69b57-c630-48d5-9247-18b1c61768e5&quot;
   }
 }</component>
   <component name="PerforceDirect.Settings">
@@ -102,7 +79,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/solme/Desktop/study/java/SeSAC_ydp_java",
+    "last_opened_file_path": "/Users/sba/Documents/github/SeSAC_ydp_java/javatutorial/day08",
     "settings.editor.selected.configurable": "Errors",
     "애플리케이션.ALTutorial.executor": "Debug",
     "애플리케이션.ArrayListTutorial.executor": "Debug",
@@ -116,12 +93,19 @@
     "애플리케이션.ClassTutorial5.executor": "Run",
     "애플리케이션.ControlStatementTutorial.executor": "Run",
     "애플리케이션.DataType.executor": "Run",
+    "애플리케이션.Ex01.executor": "Debug",
+    "애플리케이션.Ex02.executor": "Debug",
+    "애플리케이션.Ex03.executor": "Debug",
+    "애플리케이션.Ex04.executor": "Debug",
     "애플리케이션.ExceptionTutorials.executor": "Run",
+    "애플리케이션.GenericEx.executor": "Debug",
+    "애플리케이션.GenericTutorial.executor": "Debug",
     "애플리케이션.IOwithScanner.executor": "Run",
     "애플리케이션.JavaOperatorTutorial.executor": "Run",
     "애플리케이션.MusicPlayer.executor": "Debug",
     "애플리케이션.RemoteControlEx.executor": "Debug",
     "애플리케이션.ScannerTutorial.executor": "Run",
+    "애플리케이션.VCompareEx.executor": "Debug",
     "애플리케이션.classTutorial2.executor": "Run",
     "애플리케이션.exceptionTutorial.executor": "Debug",
     "애플리케이션.interfaceEx01.executor": "Debug",
@@ -134,13 +118,18 @@
     "애플리케이션.multipleExceptionCatchTutorial.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.CallVehicles">
-    <configuration name="CallVehicles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javatutorial.day07.day07interface5.CallVehicles" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/javatutorial/day08" />
+    </key>
+  </component>
+  <component name="RunManager" selected="애플리케이션.Ex04">
+    <configuration name="Ex01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javatutorial.day08.practice01.Ex01" />
       <module name="SeSAC_ydp_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javatutorial.day07.day07interface5.*" />
+          <option name="PATTERN" value="javatutorial.day08.practice01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MusicPlayer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javatutorial.day07.day07interface4.MusicPlayer" />
+    <configuration name="Ex02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javatutorial.day08.practice02.Ex02" />
       <module name="SeSAC_ydp_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javatutorial.day07.day07interface4.*" />
+          <option name="PATTERN" value="javatutorial.day08.practice02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoteControlEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javatutorial.day07.day07interface.RemoteControlEx" />
+    <configuration name="Ex03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javatutorial.day08.practice03.Ex03" />
       <module name="SeSAC_ydp_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javatutorial.day07.day07interface.*" />
+          <option name="PATTERN" value="javatutorial.day08.practice03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="interfaceEx01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javatutorial.day07.day07interface2.interfaceEx01" />
+    <configuration name="Ex04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javatutorial.day08.practice04.Ex04" />
       <module name="SeSAC_ydp_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javatutorial.day07.day07interface2.*" />
+          <option name="PATTERN" value="javatutorial.day08.practice04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,12 +176,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="interfaceEx03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javatutorial.day07.day07interface3.interfaceEx03" />
+    <configuration name="GenericTutorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javatutorial.day07.day07generic1.GenericTutorial" />
       <module name="SeSAC_ydp_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javatutorial.day07.day07interface3.*" />
+          <option name="PATTERN" value="javatutorial.day07.day07generic1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.CallVehicles" />
-        <item itemvalue="애플리케이션.MusicPlayer" />
-        <item itemvalue="애플리케이션.interfaceEx03" />
-        <item itemvalue="애플리케이션.interfaceEx01" />
-        <item itemvalue="애플리케이션.RemoteControlEx" />
+        <item itemvalue="애플리케이션.Ex04" />
+        <item itemvalue="애플리케이션.Ex03" />
+        <item itemvalue="애플리케이션.Ex02" />
+        <item itemvalue="애플리케이션.Ex01" />
+        <item itemvalue="애플리케이션.GenericTutorial" />
       </list>
     </recent_temporary>
   </component>
