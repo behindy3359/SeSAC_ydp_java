@@ -12,6 +12,7 @@ public class LibraryUser {
     public LibraryUser(String userName, String contact) {
         this.userName = userName;
         this.contact = contact;
+        this.book = new ArrayList<>();
     }
 
     public int getBookCount() {
@@ -27,7 +28,7 @@ public class LibraryUser {
         this.bookCount += 1;
     }
     public void returnBook(Book book){
-        this.store.remove(book);
+        this.book.remove(book);
         this.bookCount -= 1;
     }
 }

@@ -19,14 +19,14 @@ public class Library {
     }
     public void borrowBook(Book book, LibraryUser user){
         if( user.getBookCount() < user.getMaxBorrow() ){
-            System.out.println("책은 3권 이상 빌릴 수 없습니다.");
-        }else{
             book.borrow();
             user.borrowBook(book);
+        }else{
+            System.out.println("책은 3권 이상 빌릴 수 없습니다.");
         }
     }
     public void returnBook(Book book, LibraryUser user){
-        book.returnItem();
         user.returnBook(book);
+        book.returnItem();
     }
 }

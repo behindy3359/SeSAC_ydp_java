@@ -5,22 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86c762a0-a69e-4cab-904d-583b0ad7e202" name="변경" comment="study : 0925 - 1 배열">
-      <change afterPath="$PROJECT_DIR$/javatutorial/day07/day07generic1/GenericEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day07/day07generic1/GenericTutorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day07/day07generic1/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day07/day07wrapper1/BxUbxEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day07/day07wrapper1/VCompareEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day08/practice01/Ex01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day08/practice02/Ex02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day08/practice03/Ex03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day08/practice04/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day08/practice04/Borrowable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day08/practice04/Ex04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day08/practice04/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatutorial/day08/practice04/LibraryUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatutorial/day08/practice05/Ex05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javatutorial/day08/practice04/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/javatutorial/day08/practice04/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javatutorial/day08/practice04/LibraryUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/javatutorial/day08/practice04/LibraryUser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SeSAC_ydp_java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeSAC_ydp_java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SeSAC_ydp_java/javatutorial/day07/day07interface5/Airplane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeSAC_ydp_java/javatutorial/day07/day07interface5/Airplane.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,12 +36,12 @@
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="28f69b57-c630-48d5-9247-18b1c61768e5" />
   </component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/behindy3359/SeSAC_ydp_java.git&quot;,
-    &quot;accountId&quot;: &quot;28f69b57-c630-48d5-9247-18b1c61768e5&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/behindy3359/SeSAC_ydp_java.git",
+    "accountId": "13ee92c1-dc44-4702-ae43-b236064376df"
   }
-}</component>
+}]]></component>
   <component name="PerforceDirect.Settings">
     <option name="CHARSET" value="none" />
   </component>
@@ -80,7 +69,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/sba/Documents/github/SeSAC_ydp_java/javatutorial/day08",
-    "settings.editor.selected.configurable": "Errors",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "애플리케이션.ALTutorial.executor": "Debug",
     "애플리케이션.ArrayListTutorial.executor": "Debug",
     "애플리케이션.ArrayTutorial.executor": "Debug",
